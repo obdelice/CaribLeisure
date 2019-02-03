@@ -1,0 +1,17 @@
+body {
+    background-color: orange;
+}
+ul li {
+    color: slateblue;
+}
+section{
+    width:650px;
+    display:inline-block;
+    padding:10px;
+    font-size:30px;
+    margin:20px;
+}
+p {
+    font-size:30px;
+    font-style:italic;
+}
